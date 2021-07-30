@@ -1,0 +1,6 @@
+framework module Pods_SecondTry_Example {
+  umbrella header "Pods-SecondTry_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

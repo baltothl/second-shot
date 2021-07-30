@@ -1,0 +1,22 @@
+{
+  "name": "SecondTry",
+  "version": "0.1.0",
+  "summary": "A short description of SecondTry.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/baltothl/SecondTry",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "baltothl": "btoth@deloitte.es"
+  },
+  "source": {
+    "git": "https://github.com/baltothl/SecondTry.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SecondTry/Classes/**/*"
+}

@@ -42,9 +42,9 @@
 		607FACE51AFB9204008FA782 /* SecondTry_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondTry_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		90175DA90325F01DDB95F1B5 /* SecondTry.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SecondTry.podspec; path = ../SecondTry.podspec; sourceTree = "<group>"; };
-		DE22EB3AEB26BD26C18E3D27 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		E485C5FF16FD5A5188F3216D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		90175DA90325F01DDB95F1B5 /* SecondTry.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SecondTry.podspec; path = ../SecondTry.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		DE22EB3AEB26BD26C18E3D27 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E485C5FF16FD5A5188F3216D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E593A37AAAA5A93A79161BE4 /* Pods_SecondTry_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SecondTry_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F66ED6999B7C101DD457A00C /* Pods-SecondTry_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SecondTry_Example.release.xcconfig"; path = "Target Support Files/Pods-SecondTry_Example/Pods-SecondTry_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -156,7 +156,6 @@
 				2A2DDC549867B9884E6C2139 /* Pods-SecondTry_Tests.debug.xcconfig */,
 				5085C7B2917D0C1DB16024B7 /* Pods-SecondTry_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

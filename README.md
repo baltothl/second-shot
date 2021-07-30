@@ -27,3 +27,4 @@ baltothl, btoth@deloitte.es
 ## License
 
 SecondTry is available under the MIT license. See the LICENSE file for more info.
+# second-shot

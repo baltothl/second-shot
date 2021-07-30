@@ -1,0 +1,6 @@
+framework module SecondTry {
+  umbrella header "SecondTry-umbrella.h"
+
+  export *
+  module * { export * }
+}

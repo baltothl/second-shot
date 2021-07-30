@@ -1,0 +1,16 @@
+PODS:
+  - SecondTry (0.1.0)
+
+DEPENDENCIES:
+  - SecondTry (from `../`)
+
+EXTERNAL SOURCES:
+  SecondTry:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SecondTry: ebafb2368c5f5df6131623c93b9bfac5655d9efd
+
+PODFILE CHECKSUM: 4777f7a20536e26d3c7f8726504605952ed8bdcc
+
+COCOAPODS: 1.10.1
